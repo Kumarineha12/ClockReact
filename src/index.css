@@ -1,0 +1,18 @@
+.clock{
+  width: 90vw;
+  height: 90vh;
+  overflow: hidden;
+  text-align: center;
+}
+.clock h1{
+  border: 2px solid black;
+  width: 250px;
+  margin: 40vh auto 0px auto;
+  border-radius: 15px;
+  padding: 10px 0;
+  background-color:rgb(79, 76, 77) ;
+  box-shadow: rgba(174, 76, 76, 0.35) 0px 5px 15px;  
+}
+h1{
+  color: yellow;
+}
